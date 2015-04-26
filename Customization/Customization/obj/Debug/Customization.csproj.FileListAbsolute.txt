@@ -1,0 +1,5 @@
+D:\git\hub\COM\Customization\Customization\bin\Debug\Customization.dll
+D:\git\hub\COM\Customization\Customization\bin\Debug\Customization.pdb
+D:\git\hub\COM\Customization\Customization\obj\Debug\ResolveAssemblyReference.cache
+D:\git\hub\COM\Customization\Customization\obj\Debug\Customization.dll
+D:\git\hub\COM\Customization\Customization\obj\Debug\Customization.pdb

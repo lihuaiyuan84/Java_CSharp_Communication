@@ -1,0 +1,14 @@
+D:\git\hub\SocketJC\cSharp\SocketAgentC\SocketAgentC\obj\Release\ResolveAssemblyReference.cache
+D:\git\hub\SocketJC\cSharp\SocketAgentC\SocketAgentC\bin\Release\SocketAgentC.exe
+D:\git\hub\SocketJC\cSharp\SocketAgentC\SocketAgentC\bin\Release\SocketAgentC.pdb
+D:\git\hub\SocketJC\cSharp\SocketAgentC\SocketAgentC\obj\Release\SocketAgentC.exe
+D:\git\hub\SocketJC\cSharp\SocketAgentC\SocketAgentC\obj\Release\SocketAgentC.pdb
+D:\git\hub\SocketJC\cSharp\SocketAgentC\SocketAgentC\bin\Release\Customization.dll
+D:\git\hub\SocketJC\cSharp\SocketAgentC\SocketAgentC\bin\Release\Customization.pdb
+D:\pengyong\demo\SocketAgentC\SocketAgentC\obj\Release\SocketAgentC.exe
+D:\pengyong\demo\SocketAgentC\SocketAgentC\obj\Release\SocketAgentC.pdb
+D:\pengyong\demo\SocketAgentC\SocketAgentC\obj\Release\ResolveAssemblyReference.cache
+D:\pengyong\demo\SocketAgentC\SocketAgentC\bin\Release\SocketAgentC.exe
+D:\pengyong\demo\SocketAgentC\SocketAgentC\bin\Release\SocketAgentC.pdb
+D:\pengyong\demo\SocketAgentC\SocketAgentC\bin\Release\Customization.dll
+D:\pengyong\demo\SocketAgentC\SocketAgentC\bin\Release\Customization.pdb

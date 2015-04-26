@@ -1,0 +1,10 @@
+D:\git\hub\COM\Customization\Customization\bin\Release\Customization.dll
+D:\git\hub\COM\Customization\Customization\bin\Release\Customization.pdb
+D:\git\hub\COM\Customization\Customization\obj\Release\ResolveAssemblyReference.cache
+D:\git\hub\COM\Customization\Customization\obj\Release\Customization.dll
+D:\git\hub\COM\Customization\Customization\obj\Release\Customization.pdb
+D:\pengyong\demo\Customization\Customization\bin\Release\Customization.dll
+D:\pengyong\demo\Customization\Customization\bin\Release\Customization.pdb
+D:\pengyong\demo\Customization\Customization\obj\Release\ResolveAssemblyReference.cache
+D:\pengyong\demo\Customization\Customization\obj\Release\Customization.dll
+D:\pengyong\demo\Customization\Customization\obj\Release\Customization.pdb

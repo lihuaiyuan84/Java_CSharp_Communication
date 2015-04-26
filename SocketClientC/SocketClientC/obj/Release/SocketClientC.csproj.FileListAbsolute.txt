@@ -1,0 +1,5 @@
+D:\pengyong\demo\SocketClientC\SocketClientC\bin\Release\SocketClientC.exe
+D:\pengyong\demo\SocketClientC\SocketClientC\bin\Release\SocketClientC.pdb
+D:\pengyong\demo\SocketClientC\SocketClientC\obj\Release\ResolveAssemblyReference.cache
+D:\pengyong\demo\SocketClientC\SocketClientC\obj\Release\SocketClientC.exe
+D:\pengyong\demo\SocketClientC\SocketClientC\obj\Release\SocketClientC.pdb
